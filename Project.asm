@@ -1,4 +1,7 @@
+;Assembly fina project 
+;by: Esraa Gamal Elsayed Elsayed Salah   and   Asmaa Yaseen Mohamed 
 
+;Start of the program 
 .model small
 .data
  arr db   0,1,2,4,5,8,9
@@ -110,3 +113,12 @@ newline proc near
     ret
 newline endp
 end main
+
+
+; future work : we 'd make the system show the solving steps as a simulation for how it discovers if the element in the array or not 
+; we 've already started to implement it and we 'd continue it 
+
+
+
+
+
